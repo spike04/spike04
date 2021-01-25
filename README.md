@@ -13,8 +13,6 @@ As a software engineer, I like to learn about new stuffs in my domain and help o
 
 ## My Tech Stack:
 
-<br/>
-
 ### Programming Languages and Frameworks:
 <p>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50" style="border-radius: 50%; border: 3px solid white;">
@@ -37,8 +35,6 @@ As a software engineer, I like to learn about new stuffs in my domain and help o
 <img src="https://www.incredible-web.com/media/7160/android-icon.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
 </p>
 
-<br/>
-
 ### Tools and IDEs
 <p>
 <img src="https://cdn.iconscout.com/icon/free/png-128/slack-logo-1481728-1254330.png" height="40" style="padding: 4px; border-radius: 50%; border: 3px solid white;">
@@ -59,6 +55,9 @@ As a software engineer, I like to learn about new stuffs in my domain and help o
 - 🌱 I'm currently learning to automate boring manual stuffs.
 - 💬 Ask me about anything, I am happy to help;
 
+<br/>
+<br/>
+<br/>
 <br/>
 
 📈 **My GitHub Stats:**
