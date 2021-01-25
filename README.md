@@ -16,7 +16,7 @@ As a software engineer, I like to learn about new stuffs in my domain and help o
 <br/>
 
 ### Programming Languages and Frameworks:
-
+<p>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50" style="border-radius: 50%; border: 3px solid white;">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50" style="border-radius: 50%; border: 3px solid white;">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50" style="border-radius: 50%; border: 3px solid white;">
@@ -33,13 +33,14 @@ As a software engineer, I like to learn about new stuffs in my domain and help o
 <img src="https://nuxtjs.org/logos/nuxt-icon.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7RptWoHvbCuzaFDBYpkEppl7Rqdh1bbyHCw&usqp=CAU" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
 <img src="https://ih1.redbubble.net/image.1150190633.8412/st,small,845x845-pad,1000x1000,f8f8f8.jpg" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://assets.stickpng.com/images/58480e35cef1014c0b5e4920.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
+<img src="https://www.mavenlogix.org/wp-content/uploads/2019/01/laravel-512.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
 <img src="https://www.incredible-web.com/media/7160/android-icon.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
+</p>
 
 <br/>
 
 ### Tools and IDEs
-
+<p>
 <img src="https://cdn.iconscout.com/icon/free/png-128/slack-logo-1481728-1254330.png" height="40" style="padding: 4px; border-radius: 50%; border: 3px solid white;">
 <img src="https://cdn.iconscout.com/icon/free/png-128/intellij-4-1175020.png" height="40" style="padding: 4px; border-radius: 50%; border: 3px solid white;">
 <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" height="50" style="border-radius: 50%; border: 3px solid white;">
@@ -47,19 +48,17 @@ As a software engineer, I like to learn about new stuffs in my domain and help o
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjcEuU-tH32Z2iOhe-q-F1PmbFfy8Z99vH8Q&usqp=CAU" height="40" style="padding: 5px; border-radius: 50%; border: 3px solid white;">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" style="padding: 5px; border-radius: 50%; border: 3px solid white;">
 <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" height="40"  style="padding: 5px; border-radius: 50%; border: 3px solid white;">
+</p>
 
 **Talking about Personal Stuffs:**
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" width="408" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" width="350" />
 
 - 👨🏻‍💻 I’m currently working on somthing cool;
 - 🚀 I’m currently learning and searching backend and frontend to create a perfect tech stack;
 - 🌱 I'm currently learning to automate boring manual stuffs.
 - 💬 Ask me about anything, I am happy to help;
 
-<br/>
-<br/>
-<br/>
 <br/>
 
 📈 **My GitHub Stats:**
