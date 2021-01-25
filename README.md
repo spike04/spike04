@@ -33,6 +33,7 @@ As a software engineer, I like to learn about new stuffs in my domain and help o
 <img src="https://ih1.redbubble.net/image.1150190633.8412/st,small,845x845-pad,1000x1000,f8f8f8.jpg" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
 <img src="https://www.mavenlogix.org/wp-content/uploads/2019/01/laravel-512.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
 <img src="https://www.incredible-web.com/media/7160/android-icon.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
+<img src="https://w7.pngwing.com/pngs/780/57/png-transparent-node-js-javascript-database-mongodb-native-miscellaneous-text-trademark.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
 </p>
 
 ### Tools and IDEs
