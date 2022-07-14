@@ -1,6 +1,6 @@
 ### Hi there, I'm Rubin Bajracharya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/in/rubinbajracharya)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rubinbajracharya)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/rubinbaj)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rubinbajracharya/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3B5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/rubin.bajracharya/)
@@ -29,7 +29,9 @@ As a software engineer, I like to learn about new stuffs in my domain and help o
 <img src="https://cdn.imgbin.com/20/22/0/imgbin-angularjs-logo-javascript-security-token-HwGnker3RH1BuWZW3zdm2UN6M.jpg" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
 <img src="https://vuejs.org/images/logo.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://nuxtjs.org/logos/nuxt-icon.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
+<img src="https://styles.redditmedia.com/t5_3k2ni/styles/communityIcon_7dliukwh22t71.png?width=256&s=e3f4373e7768092fd450ca500b382d3825587d7e" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
+<img src="http://upload.wikimedia.org/wikipedia/en/2/29/Quasar_Logo.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
+<img src="https://pbs.twimg.com/profile_images/1425897037602586625/ID6pueIo_400x400.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7RptWoHvbCuzaFDBYpkEppl7Rqdh1bbyHCw&usqp=CAU" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
 <img src="https://ih1.redbubble.net/image.1150190633.8412/st,small,845x845-pad,1000x1000,f8f8f8.jpg" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
 <img src="https://www.mavenlogix.org/wp-content/uploads/2019/01/laravel-512.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
