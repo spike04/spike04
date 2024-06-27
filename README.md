@@ -14,32 +14,35 @@ As a software engineer, I like to learn about new stuffs in my domain and help o
 ## My Tech Stack:
 
 ### Programming Languages and Frameworks:
+
 <p>
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://camo.githubusercontent.com/bcd4bda49ef6cd9537db065920f4f4f6ac670eae0e0adf2c5133c19b319f1574/68747470733a2f2f627261646c632e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f627261646c632f7673636f64652d7461696c77696e646373732f302e322e302f313535383034303536333634392f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74" height="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png" height="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1174965.png" height="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://www.drupal.org/files/project-images/react.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://cdn.imgbin.com/20/22/0/imgbin-angularjs-logo-javascript-security-token-HwGnker3RH1BuWZW3zdm2UN6M.jpg" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://vuejs.org/images/logo.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://styles.redditmedia.com/t5_3k2ni/styles/communityIcon_7dliukwh22t71.png?width=256&s=e3f4373e7768092fd450ca500b382d3825587d7e" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="http://upload.wikimedia.org/wikipedia/en/2/29/Quasar_Logo.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://pbs.twimg.com/profile_images/1425897037602586625/ID6pueIo_400x400.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7RptWoHvbCuzaFDBYpkEppl7Rqdh1bbyHCw&usqp=CAU" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://ih1.redbubble.net/image.1150190633.8412/st,small,845x845-pad,1000x1000,f8f8f8.jpg" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://www.mavenlogix.org/wp-content/uploads/2019/01/laravel-512.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://www.incredible-web.com/media/7160/android-icon.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
-<img src="https://w7.pngwing.com/pngs/780/57/png-transparent-node-js-javascript-database-mongodb-native-miscellaneous-text-trademark.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50" style="border-radius: 50%; border: 3px solid white;" alt="HTML"/>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50" style="border-radius: 50%; border: 3px solid white;" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50" style="border-radius: 50%; border: 3px solid white;" alt="Python"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRszMkrUNsK8NmV4B1tGfrjtaLXJsxflLyfbw&s" height="50" style="border-radius: 50%; border: 3px solid white;" alt="CSS3"/>
+<img src="https://www.drupal.org/files/project-images/screenshot_361.png" height="50" style="border-radius: 50%; border: 3px solid white;" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="50" style="border-radius: 50%; border: 3px solid white;" alt="Kotlin"/>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="50" style="border-radius: 50%; border: 3px solid white;" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="50" style="border-radius: 50%; border: 3px solid white;" alt="PHP"/>
+<img src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png" height="50" style="border-radius: 50%; border: 3px solid white;" alt="Dart"/>
+<img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1174965.png" height="50" style="border-radius: 50%; border: 3px solid white;" alt="TypeScript"/>
+<img src="https://www.drupal.org/files/project-images/react.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;" alt="React"/>
+<img src="https://cdn.imgbin.com/20/22/0/imgbin-angularjs-logo-javascript-security-token-HwGnker3RH1BuWZW3zdm2UN6M.jpg" height="50" width="50" style="border-radius: 50%; border: 3px solid white;" alt="AngularJS"/>
+<img src="https://vuejs.org/images/logo.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;" alt="VueJS"/>
+<img src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4unrrweuaj1wyh25npgt.jpeg" height="50" width="50" style="border-radius: 50%; border: 3px solid white;" alt="NextJS"/>
+<img src="https://avatars2.githubusercontent.com/u/23360933?s=200&v=4" height="50" width="50" style="border-radius: 50%; border: 3px solid white;" alt="NuxtJS">
+<img src="https://upload.wikimedia.org/wikipedia/en/2/29/Quasar_Logo.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;" alt="Quasar"/>
+<img src="https://pbs.twimg.com/profile_images/1425897037602586625/ID6pueIo_400x400.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;" alt="Remix">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7RptWoHvbCuzaFDBYpkEppl7Rqdh1bbyHCw&usqp=CAU" height="50" width="50" style="border-radius: 50%; border: 3px solid white;" alt="NestJS"/>
+<img src="https://ih1.redbubble.net/image.1150190633.8412/st,small,845x845-pad,1000x1000,f8f8f8.jpg" height="50" width="50" style="border-radius: 50%; border: 3px solid white;" alt="Flutter"/>
+<img src="https://styles.redditmedia.com/t5_2uakt/styles/communityIcon_fmttas2xiy351.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;" alt="Laravel"/>
+<img src="https://iconape.com/wp-content/png_logo_vector/android-robot-head.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;" alt="Android"/>
+<img src="https://w7.pngwing.com/pngs/780/57/png-transparent-node-js-javascript-database-mongodb-native-miscellaneous-text-trademark.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;" alt="NodeJS"/>
+<img src="https://developer.apple.com/swift/images/swift-og.png" height="50" width="50" style="border-radius: 50%; border: 3px solid white;" alt="Swift"/>
 </p>
 
 ### Tools and IDEs
+
 <p>
 <img src="https://cdn.iconscout.com/icon/free/png-128/slack-logo-1481728-1254330.png" height="40" style="padding: 4px; border-radius: 50%; border: 3px solid white;">
 <img src="https://cdn.iconscout.com/icon/free/png-128/intellij-4-1175020.png" height="40" style="padding: 4px; border-radius: 50%; border: 3px solid white;">
@@ -52,7 +55,7 @@ As a software engineer, I like to learn about new stuffs in my domain and help o
 
 **Talking about Personal Stuffs:**
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" width="350" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" width="300" />
 
 - 👨🏻‍💻 I’m currently working on somthing cool;
 - 🚀 I’m currently learning and searching backend and frontend to create a perfect tech stack;
