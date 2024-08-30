@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rubinbajracharya/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3B5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/rubin.bajracharya/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=spike04.spike04)
+### Glad to see you here!
 
 I am a full-stack software engineer who likes to learn and implement new stuffs and travel.
 
@@ -25,7 +25,7 @@ As a Sr. Software Engineer, I like to learn about new stuffs in my domain and he
 <img src="https://miro.medium.com/v2/resize:fit:250/1*jA64NTovT-efZ96tcq-X5g.png" height="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="Kotlin"/>
 <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" height="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="Java"/>
 <img src="https://cdn-icons-png.flaticon.com/128/919/919830.png" height="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="PHP"/>
-<img src="https://plugins.jetbrains.com/files/6351/587327/icon/pluginIcon.png" height="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="Dart"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" height="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="Dart"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-7-pack-logos-icons-3030260.png?f=webp&w=256" height="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="TypeScript"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175109.png?f=webp&w=256" height="50" width="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="React"/>
 <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" height="50" width="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="React"/>
