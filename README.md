@@ -32,9 +32,9 @@ As a Sr. Software Engineer, I like to learn about new stuffs in my domain and he
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-angular-logo-icon-download-in-svg-png-gif-file-formats--coding-programming-logos-icons-1720094.png?f=webp&w=256" height="50" width="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="AngularJS"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-vuejs-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175070.png?f=webp&w=256" height="50" width="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="VueJS"/>
 <img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" height="50" width="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="NextJS"/>
-<img src="https://nuxtjs.ir/logos/nuxt-icon-white.png" height="50" width="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="NuxtJS">
-<img src="https://upload.wikimedia.org/wikipedia/en/2/29/Quasar_Logo.png" height="50" width="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="Quasar"/>
-<img src="https://pbs.twimg.com/profile_images/1425897037602586625/ID6pueIo_400x400.png" height="50" width="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="Remix">
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-nuxt-dot-js-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945059.png?f=webp&w=512" height="50" width="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="NuxtJS">
+<img src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" height="50" width="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="Quasar"/>
+<img src="https://remix.run/_brand/remix-letter-glowing.png" height="50" width="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="Remix">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7RptWoHvbCuzaFDBYpkEppl7Rqdh1bbyHCw&usqp=CAU" height="50" width="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="NestJS"/>
 <img src="https://logosandtypes.com/wp-content/uploads/2021/04/Flutter.png" height="50" width="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="Flutter"/>
 <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" height="50" width="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="Laravel"/>
@@ -48,16 +48,16 @@ As a Sr. Software Engineer, I like to learn about new stuffs in my domain and he
 ### Tools and IDEs
 
 <p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaPlbD42KHzVMn8SG2t54umtxYfOz2Mcwm8w&s" height="50" style="padding: 4px; border-radius: 50%; border: 3px solid white;">
-<img src="https://dl.flathub.org/media/com/jetbrains/IntelliJ-IDEA-Community/8b6d7458db9d9232b401817dedf1d050/icons/128x128@2/com.jetbrains.IntelliJ-IDEA-Community.png" height="50" style="padding: 4px; border-radius: 50%; border: 3px solid white;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/640px-Android_Studio_Logo_%282023%29.svg.png" height="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;">
-<img src="https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" height="50" style="padding: 5px; border-radius: 50%; border: 3px solid white;">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjcEuU-tH32Z2iOhe-q-F1PmbFfy8Z99vH8Q&usqp=CAU" height="50" style="padding: 5px; border-radius: 50%; border: 3px solid white;">
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50" style="padding: 5px; border-radius: 50%; border: 3px solid white;">
-<img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" height="50"  style="padding: 5px; border-radius: 50%; border: 3px solid white;">
-<img src="https://yt3.googleusercontent.com/NuBWxGpdF0YzNSr7x_Tc8EEFXbQoHc0Xf9rU_ehxFPRikw8YPN886HltWeMDihKU8v5SeKFI3B4=s900-c-k-c0x00ffffff-no-rj" height="50"  style="padding: 5px; border-radius: 50%; border: 3px solid white;">
-<img src="https://avatars.githubusercontent.com/u/25003669?s=280&v=4" height="50"  style="padding: 5px; border-radius: 50%; border: 3px solid white;">
-<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png" height="50"  style="padding: 5px; border-radius: 50%; border: 3px solid white;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaPlbD42KHzVMn8SG2t54umtxYfOz2Mcwm8w&s" height="50" style="padding: 4px; border-radius: 50%; border: 3px solid white;" alt="Slack">
+<img src="https://dl.flathub.org/media/com/jetbrains/IntelliJ-IDEA-Community/8b6d7458db9d9232b401817dedf1d050/icons/128x128@2/com.jetbrains.IntelliJ-IDEA-Community.png" height="50" style="padding: 4px; border-radius: 50%; border: 3px solid white;" alt="Intellij">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/640px-Android_Studio_Logo_%282023%29.svg.png" height="50" style="padding: 5px; border-radius: 50%; border: 2px solid white;" alt="Android Studio">
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-vscode-icon-download-in-svg-png-gif-file-formats--logo-social-media-iconography-pack-logos-icons-10918975.png?f=webp&w=512" height="50" style="padding: 5px; border-radius: 50%; border: 3px solid white;" alt="VSCode">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjcEuU-tH32Z2iOhe-q-F1PmbFfy8Z99vH8Q&usqp=CAU" height="50" style="padding: 5px; border-radius: 50%; border: 3px solid white;" alt="Jira">
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50" style="padding: 5px; border-radius: 50%; border: 3px solid white;" alt="Git">
+<img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" height="50"  style="padding: 5px; border-radius: 50%; border: 3px solid white;" alt="Firebase">
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-supabase-icon-download-in-svg-png-gif-file-formats--logo-brand-company-pack-logos-icons-12158605.png?f=webp&w=512" height="50"  style="padding: 5px; border-radius: 50%; border: 3px solid white;" alt="Supabase">
+<img src="https://avatars.githubusercontent.com/u/25003669?s=280&v=4" height="50"  style="padding: 5px; border-radius: 50%; border: 3px solid white;" alt="Appwrite">
+<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png" height="50"  style="padding: 5px; border-radius: 50%; border: 3px solid white;" alt="Expo">
 </p>
 
 **Talking about Personal Stuffs:**
